@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gongsiyi123
 - 👀 I’m interested in creating amazing Apps
-- 🌱 I’m currently learning iOS/WebGL/Angular
+- 🌱 I’m currently learning iOS/Web
 - 💞️ I’m looking to collaborate on iOS/Web
 - 📫 How to reach me -> gongsiyi198825@gmail.com
 
